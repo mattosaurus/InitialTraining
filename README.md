@@ -18,7 +18,7 @@
     ```
 
 2. Update your multiply and divide code to not use the * or / operators.
-3. Break you maths methods out into a seperate class and import that into your Program.cs file.
+3. Break you maths methods out into a separate class and import that into your Program.cs file.
 4. Implement an interface describing your methods and have your class inherit that.
 5. Add a new class that implements your interface that does the work in SQL rather than within your application.
 6. Add a new argument `-load` that takes a file path parameter. Your application will iterate through all rows in the file and perform the specified operations.
