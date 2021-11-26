@@ -1,4 +1,6 @@
-﻿namespace InitialTraining.Calculator.App
+﻿using System;
+
+namespace InitialTraining.Calculator.App
 {
     static class Program
     {
